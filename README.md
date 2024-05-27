@@ -1,2 +1,0 @@
-# yoshstar
-sistem yoshstar
